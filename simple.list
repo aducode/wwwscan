@@ -1,0 +1,3 @@
+/admin
+/admin:$i30:$INDEX_ALLOCATION/index.php
+/admin::$INDEX_ALLOCATION/index.php
